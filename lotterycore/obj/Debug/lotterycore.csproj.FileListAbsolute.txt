@@ -1,0 +1,6 @@
+F:\lottery\lottery\lotterycore\obj\Debug\lotterycore.csproj.CoreCompileInputs.cache
+F:\lottery\lottery\lotterycore\bin\Debug\lotterycore.dll
+F:\lottery\lottery\lotterycore\bin\Debug\lotterycore.pdb
+F:\lottery\lottery\lotterycore\obj\Debug\lotterycore.dll
+F:\lottery\lottery\lotterycore\obj\Debug\lotterycore.pdb
+F:\lottery\lottery\lotterycore\obj\Debug\lotterycore.csprojAssemblyReference.cache

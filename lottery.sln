@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lottery", "lottery\lottery.csproj", "{26020413-578D-4B3B-95DE-6AB87528DE93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{9A014430-69DE-471E-B7AA-1C486CEBE058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lotterycore", "lotterycore\lotterycore.csproj", "{C75C2A29-DFAD-4EF6-8C68-240B7E65A5B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26020413-578D-4B3B-95DE-6AB87528DE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26020413-578D-4B3B-95DE-6AB87528DE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26020413-578D-4B3B-95DE-6AB87528DE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26020413-578D-4B3B-95DE-6AB87528DE93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A014430-69DE-471E-B7AA-1C486CEBE058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A014430-69DE-471E-B7AA-1C486CEBE058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A014430-69DE-471E-B7AA-1C486CEBE058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A014430-69DE-471E-B7AA-1C486CEBE058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75C2A29-DFAD-4EF6-8C68-240B7E65A5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75C2A29-DFAD-4EF6-8C68-240B7E65A5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75C2A29-DFAD-4EF6-8C68-240B7E65A5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75C2A29-DFAD-4EF6-8C68-240B7E65A5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {072E1D44-8811-4AE9-86D4-33DCF03FA28F}
+	EndGlobalSection
+EndGlobal

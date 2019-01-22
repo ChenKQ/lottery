@@ -1,0 +1,10 @@
+F:\lottery\lottery\Test\bin\Debug\Test.exe.config
+F:\lottery\lottery\Test\bin\Debug\Test.exe
+F:\lottery\lottery\Test\bin\Debug\Test.pdb
+F:\lottery\lottery\Test\obj\Debug\Test.csprojAssemblyReference.cache
+F:\lottery\lottery\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\lottery\lottery\Test\obj\Debug\Test.exe
+F:\lottery\lottery\Test\obj\Debug\Test.pdb
+F:\lottery\lottery\Test\bin\Debug\lotterycore.dll
+F:\lottery\lottery\Test\bin\Debug\lotterycore.pdb
+F:\lottery\lottery\Test\obj\Debug\Test.csproj.CopyComplete
