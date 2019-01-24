@@ -12,6 +12,17 @@ namespace Test
     {
         static void Main(string[] args)
         {
+            int[] ar = new int[200];
+            for(int i=0; i<2000000; ++i)
+            {
+                Random ran = new Random((unchecked((int)DateTime.Now.Ticks + i)));
+                int selected = ran.Next(0,200);
+                ar[selected] += 1;
+            }
+            foreach(int c in ar)
+            {
+                Console.WriteLine(c);
+            }
 
             lotterycore.ICandidatesSerialization ser = new CandidateSerialization();
             lotterycore.Candidates candidates = ser.unserializeCandidates("candidates.txt");
